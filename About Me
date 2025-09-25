@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+<title>Qasim HamdaniL</title>
+</head>
+<style>
+body {
+    background-color: red;
+}
+h1   {color: blue;}
+</style>
+<body>
+<h1 style="color:rgb(255, 0, 0);">Things I like to do:</h1>
+<p>I like to play sports. Below is an image of me playing lacrosse.</p>
+</body>

@@ -13,4 +13,5 @@ h1   {color: blue;}
 <body>
 <h1 style="color:rgb(255, 0, 0);">Things I like to do:</h1>
 <p>I like to play sports. Below is an image of me playing lacrosse.</p>
+<img src="pic_trulli.png" alt="I played lacrosse over the summer">
 </body>
